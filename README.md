@@ -7,7 +7,7 @@
 
 ## Sobre Mim
 
-Sou estudante de Ciência da Computação na Universidade Federal de Itajubá, onde estou continuamente me aprofundando nas áreas de back-end e análise de dados. Com um ano de experiência prévia na Universidade Federal de Alfenas e participação ativa em iniciativas como a [Asimov Jr.](https://asimovjr.com), a maior empresa júnior de TI de Minas Gerais, tenho desenvolvido projetos e habilidades que complementam minha formação acadêmica.
+Sou estudante de Ciência da Computação na Universidade Federal de Itajubá, onde estou continuamente me aprofundando nas áreas de back-end e análise de dados. Com um ano de experiência prévia na Universidade Federal de Alfenas e participação ativa em iniciativas como a [Asimov Jr.](https://asimovjr.com.br/), a maior empresa júnior de TI de Minas Gerais, tenho desenvolvido projetos e habilidades que complementam minha formação acadêmica.
 
 ---
 
